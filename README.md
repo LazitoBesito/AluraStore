@@ -25,7 +25,8 @@ Esta funcion fue definida con el objetivo de que recorriera y analizara cuantas 
 
 ## Acceso al Proyecto
 Este proyecto está desarrollado en google colab, por lo cual solo requiere una cuenta google activa para poder usar colab.
-Lo primero que haremos será abrir el documento llamado ALuraStoreLatam.ipynb: [![Abrir en colab](
+Lo primero que haremos será abrir el documento llamado ALuraStoreLatam.ipynb: 
+![Abrir PRoyecto](img
 
 
 ## Tecnologías utilizadas;
