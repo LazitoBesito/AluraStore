@@ -24,6 +24,8 @@ Esta funcion fue definida con el objetivo de que recorriera y analizará cuánta
 Esta funcion fue definida con el objetivo de que recorriera y analizara cuantas veces aparecia un producto en la lista de cada tienda, de ahi se usaria max() y min() para que nos devolviera los productos más y menos vendidos.
 
 ## Acceso al Proyecto
+Este proyecto está desarrollado en google colab, por lo cual solo requiere una cuenta google activa para poder usar colab.
+Lo primero que haremos será abrir el documento llamado ALuraStoreLatam.ipynb: [![Abrir en colab](
 
 
 ## Tecnologías utilizadas;
